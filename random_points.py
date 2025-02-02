@@ -7,4 +7,4 @@ fig=px.scatter(x=x_data,y=y_data)
 fig.show()
 
 
-// OUTPUT :
+// OUTPUT : Discrete_points_plotly.png
