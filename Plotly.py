@@ -11,4 +11,4 @@ fig.update_layout(title="Surface Plot")  // giving title name
 fig.show() // for showing the output 
 
 
-
+//OUPUT : newplot.png
