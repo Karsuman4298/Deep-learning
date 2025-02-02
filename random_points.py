@@ -1,3 +1,5 @@
+//  Creates 50 random points on both X-Axis and Y-Axis.
+
 import pandas as pd
 import numpy as np
 import plotly.express as px
